@@ -7,6 +7,14 @@ app.get("/books", async (req, res, next) => {
   res.send(BOOKS_DATA);
 });
 
+app.get("/books/one", async (req, res, next) => {
+  res.send(BOOKS_DATA[0]);
+});
+
+app.get("/books/none", async (req, res, next) => {
+  res.send(undefined);
+});
+
 app.post("/books", async (req, res, next) => {
   res.send({
     success: true,
