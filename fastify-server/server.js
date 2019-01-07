@@ -1,7 +1,7 @@
 const Fastify = require("fastify");
 const BOOKS_DATA = require("../books");
 const app = Fastify();
-const PORT = 80;
+const PORT = 3000;
 
 app.get("/books", async (req, res, next) => {
   res.send(BOOKS_DATA);
