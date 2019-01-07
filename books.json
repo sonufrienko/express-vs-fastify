@@ -1,10 +1,82 @@
 [
   {
-    "id": "0137081073",
-    "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
-    "author": "Robert C. Martin",
-    "isbn": "978-0137081073",
+    "id": "5c33a527c97ff033bc3b11bf",
+    "title": "1. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "1. Robert C. Martin",
+    "isbn": "542d810b-8723-4111-94fd-cdbd2b15d490",
     "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
-    "price": 27.69
+    "price": "$2,549.57"
+  },
+  {
+    "id": "5c33a527b45d03547d161a87",
+    "title": "2. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "2. Robert C. Martin",
+    "isbn": "29c42d25-7db8-46b0-a730-903650567adc",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$2,726.75"
+  },
+  {
+    "id": "5c33a527fb169c6b6e07fcb8",
+    "title": "3. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "3. Robert C. Martin",
+    "isbn": "1ca73081-db61-4092-abbd-7e6d57063d05",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$2,469.69"
+  },
+  {
+    "id": "5c33a52712bf5688338375c9",
+    "title": "4. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "4. Robert C. Martin",
+    "isbn": "5a60b5b1-7d01-404b-ae43-3052b090f91b",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$3,960.23"
+  },
+  {
+    "id": "5c33a5279ce80c4d35742160",
+    "title": "5. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "5. Robert C. Martin",
+    "isbn": "65743525-ceea-4d31-8569-d21c55762d67",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$1,200.04"
+  },
+  {
+    "id": "5c33a5275cf94a35280e6087",
+    "title": "6. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "6. Robert C. Martin",
+    "isbn": "f8349472-9f09-4d06-8c2c-a7e577018e26",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$3,367.58"
+  },
+  {
+    "id": "5c33a527c7b0e3970f328da8",
+    "title": "7. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "7. Robert C. Martin",
+    "isbn": "9f08fefe-29d3-4bb1-a6e4-5f1580cbd55c",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$3,671.22"
+  },
+  {
+    "id": "5c33a52794cdecd2626115fc",
+    "title": "8. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "8. Robert C. Martin",
+    "isbn": "5ecb7eb1-a2ce-49da-8e71-f4c0f980ef9e",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$3,324.81"
+  },
+  {
+    "id": "5c33a52776c59c017c033130",
+    "title": "9. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "9. Robert C. Martin",
+    "isbn": "d2c3451f-601f-4726-9aca-9636ffd55034",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$3,458.85"
+  },
+  {
+    "id": "5c33a527a239b47edf481def",
+    "title": "10. The Clean Coder: A Code of Conduct for Professional Programmers",
+    "author": "10. Robert C. Martin",
+    "isbn": "67322a13-4e07-4c8a-9c7e-8e18d0f22171",
+    "description": "Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute: They care deeply about the practice of creating software. They treat it as a craft. They are professionals.",
+    "price": "$1,676.02"
   }
 ]
