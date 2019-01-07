@@ -1,2 +1,2 @@
-# express-vs-restify
-Compare Express and Restify performance for microservice
+# Express vs Fastify
+Compare Express and Fastify performance for microservice
