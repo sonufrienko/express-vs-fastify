@@ -1,0 +1,15 @@
+{
+  "name": "fastify-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "Sergey Onufrienko",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^1.13.3"
+  }
+}
